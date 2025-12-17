@@ -1988,7 +1988,7 @@ button:hover {
 }
 
 .color-btn[data-color="gray"] {
-    background: linear-gradient(135deg, #84817e, #84817e);
+    background: linear-gradient(135deg, #757374, #757374);
     color: white;
     border-color: #84817e;
 }
@@ -2156,5 +2156,6 @@ button:hover {
     outline-offset: 2px;
 
 }
+
 
 
