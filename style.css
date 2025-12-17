@@ -2123,9 +2123,9 @@ button:hover {
 
 
 .color-btn[data-color="olive-green2"] {
-    background-color: #7f7963;
+    background-color: #918b6a;
     color: var(--white);
-    border-color: #7f7963;
+    border-color: #918b6a;
 }
 .color-btn[data-color="olive-green2"].active {
     outline: 2px solid var(--primary-color);
@@ -2154,4 +2154,5 @@ button:hover {
 .color-btn[data-color="dark-gray2"].active {
     outline: 2px solid var(--primary-color);
     outline-offset: 2px;
+
 }
